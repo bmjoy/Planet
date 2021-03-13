@@ -7,7 +7,9 @@
 4. 游戏结束判定：当屏幕内积攒的星球数量溢出时，游戏结束。
 5. 用户UI：玩家在失败界面可以查看排行榜和重新开始游戏。
 
-演示Demo：https://www.bilibili.com/video/BV1rf4y147uE/
+# 演示Demo
+
+https://www.bilibili.com/video/BV1rf4y147uE/
 
 # 运行环境
 
